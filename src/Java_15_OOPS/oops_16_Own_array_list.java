@@ -1,6 +1,4 @@
-package OOPS;
-
-import java.util.ArrayList;
+package Java_15_OOPS;
 
 class Arraylist{
     int[] arr ;

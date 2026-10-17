@@ -1,4 +1,4 @@
-package OOPS;
+package Java_15_OOPS;
 
 public class oops_01_passing_classes_to_methods {
     public static class Car{

@@ -1,4 +1,4 @@
-package OOPS;
+package Java_15_OOPS;
 
 class Student{
     String name;    //initially null

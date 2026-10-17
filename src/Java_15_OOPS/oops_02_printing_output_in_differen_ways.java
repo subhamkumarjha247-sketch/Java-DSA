@@ -1,4 +1,4 @@
-package OOPS;
+package Java_15_OOPS;
 
 public class oops_02_printing_output_in_differen_ways {
     public static class Student{

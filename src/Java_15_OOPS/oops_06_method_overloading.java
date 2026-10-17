@@ -1,4 +1,4 @@
-package OOPS;
+package Java_15_OOPS;
 
 public class oops_06_method_overloading {
     public static int max(int a, int b){

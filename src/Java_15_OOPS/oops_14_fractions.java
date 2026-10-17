@@ -1,4 +1,4 @@
-package OOPS;
+package Java_15_OOPS;
 
 class Fraction{
     int num;
